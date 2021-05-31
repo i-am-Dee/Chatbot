@@ -31,3 +31,13 @@ When it come to conversation bot its very limited
 2. Add the chatbot to the Web App
 3. Train the bot 
 4. Check Conversation with the bot *[Result]*
+
+## What all Library one need to setup `(DEPENDENCIES)`
+
+*NOTE : Please try Virtual Emv*
+
+1. `Jinja2` 2.10.1
+2. `Flask` 1.1.1
+3. `chatterbot-corpus` 1.2.0
+4. `ChatterBot` 1.0.0
+5. `SQLAchami` 1.2
